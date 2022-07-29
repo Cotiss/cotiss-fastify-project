@@ -24,6 +24,7 @@ Inside `domain/api/test/api.test.ts` you will see that we have already written s
 We respect your time, so we only expect you to spend a few hours on the exercise. If you have any questions, please reach out to both matthew.oh@cotiss.com and janick.vw@cotiss.com, and ask away - we're here to help!
 
 **Notes**
+
 Similar to passwords, we shouldn’t store the raw secret within our database. Instead we should store a hash and compare them.
 
 **Hints**
