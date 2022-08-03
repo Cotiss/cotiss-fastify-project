@@ -65,7 +65,7 @@ Have a look at Fastify's ecosystem
 
 1. Clone the repository
    ```sh
-    git clone https://github.com/Cotiss/fastify-starter.git
+    git clone https://github.com/Cotiss/cotiss-fastify-project.git
    ```
 2. Install the dependencies
    ```sh
